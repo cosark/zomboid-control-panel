@@ -144,6 +144,7 @@ Visual map selector for reclaiming disk space from an aging save. Delete individ
 - [What It Does](#what-it-does)
 - [Requirements](#requirements)
 - [Quick Start](#quick-start)
+- [One-Click Deploy](#one-click-deploy)
 - [Setup](#setup)
 - [PanelBridge](#panelbridge-optional)
   - [PanelBridge on the Steam Workshop](#panelbridge-on-the-steam-workshop)
@@ -265,6 +266,12 @@ of these and the other two configurations (bind-mounting an existing PZ
 install, and Unraid specifically) — including running PZ in a separate
 container from the panel, and choosing between the published image and
 building from source.
+
+---
+
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Zomboid%20Control%20Panel/)
 
 ---
 
